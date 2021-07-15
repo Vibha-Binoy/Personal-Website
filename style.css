@@ -1,0 +1,132 @@
+#Logo{
+	width:130px;
+	height:130px;
+}
+#logo_div{
+	background-color:white;
+}
+.nav{
+	background-color:#12a4d9;
+	overflow: hidden;
+}
+.nav a{
+	float:left;
+	display:block;
+	color:white;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size:20px;
+}
+.hmpgtable img{
+	width:33.3333333333%;
+	size:cover;
+}
+#hmimg{
+	float:right;
+	height:400px;
+	width:140px;
+}
+#header{
+	position:sticky;
+	top:0;
+}
+img{
+	border-radius:10px;
+	opacity:1;
+}
+#hmp{
+	font-size:40px;
+}
+.footer{
+	height:15%px;
+    bottom:0;
+    width:100%;
+	background-color:#d9138a;
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+.footer img{
+	width:70px;
+	height:90px;
+}
+p::first-letter{
+	font-size:90px;
+}
+img{
+	margin:30px;
+}
+p{
+	font-size:40px;
+	font-family: 'Barriecito';
+}
+#gallery{
+	display:none;
+    color: white;
+    margin: auto;  
+}
+table{
+			border-collapse: collapse;
+		    padding: 300px;
+		    border-radius: 20px;
+		    text-align: left;
+			font-size:25px;
+            color: #ffffff;
+		}
+td,th{
+			border: 2px solid white;
+			text-align: center;
+			padding: 5px
+		}
+		tr:nth-child(even)
+		{
+			background-color: #804000;
+		}
+		tr:nth-child(odd)
+		{
+			background-color:  #ff9933;
+		}
+#x{
+	font-size:40px;
+}
+.im img{
+	width:380px;
+	height:380px;
+}
+#fform{
+	display:none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Barrio';
+}
+marquee{
+	font-family: 'Beth Ellen';
+	font-size:25px;
+}
+a{
+	font-family: 'Bungee Shade';
+	font-size:25px;
+}
+li{
+	font-family: 'Dokdo';
+	font-size:30px;
+}
+button{
+	font-family: 'Faster One';
+}
+body{
+	background-color:#e2d810;
+}
+p,li,a,marquee{
+	color: #322e2f;
+}
+button{
+	background-color:#d9138a;
+	width:200px;
+	height:100px; 
+	font-size:30px;
+}
+form{
+	font-size:40px;
+	font-family: 'Barriecito';
+}
